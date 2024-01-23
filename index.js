@@ -6,7 +6,7 @@ const schedule = require('node-schedule');
 // Set default configuration for Evernode
 Defaults.set({
     governorAddress: "rBvKgF3jSZWdJcwSsmoJspoXLLDVLDp6jg",
-    rippledServer: "wss://myshiz.krazedegen.com",
+    rippledServer: "wss://xahau.network",
     stateIndexId: "evernodeprod",
     networkID: 21337
 });
