@@ -19,26 +19,11 @@ const allowedUserId = 5242456536;
 
 // Hosts to monitor
 const hostsToMonitor = new Set([
-    "rwW9QUqSn65Q2cWsy7LzMXgmn1ygX293fu",
-    "rUjQHBwhPxVYFi5iducoUGuG7XFgbWGmha",
-    "rsmXAyy1yUPKWwbeDk1rSpSnKvu6sr87gu",
-    "rPJw1a59gXkUvdbUH5eH9vnfZGwX2AgaMi",
-    "rP3S9kWAb5cpZYmFRwRqjmuy3FS79oHmQe",
-    "rL3q7ughX3L5QQNDCRkhv8E65LEtZECt5R",
-    "rK75rCmumGwS7DWJPtoYEkG4UXLm3B98Ui",
-    "rHfDUXDcd3C46iTDbQuRxWAWgSZ4BkttMW",
-    "rGo1ubi15BZbNrKaRjWxDF4JCdw3xQDtoe",
-    "rESMqazMr92ZLeEJg7AVWUNTKAq7YkK519",
-    "rEKrhjvdruA3Qxn1qjSRRyUqu3zFJVRogo",
-    "rDvfjxLygpLDy8t4DKcJueUtaVW9rTTwdN",
-    "rBGdUkpYRPjfF78uFzMYYp4cho77rwLWez",
-    "rBeg9RR2NVYwvxnWPR9jTkt9cMYMzTzSPR",
-    "r9V6Uh2otN1oPM7cN96Df9PfnvBFLJoboc",
-    "r9U374ZRZSX2vXusrucdaSpkTejSz4fj31",
-    "r9RECpkVYyoFVZfTuz7Bi9Fxp3g3cxomg1",
-    "r65LvZGgfNJoBJJeZs6TmGXuQHDCzRjzg",
-    "r3QVmKhGu5L1azUjYeFAckL4vLZGtsV6Kx",
-    "raBEQhqFLXJGS5szFDWzg3JHej2foyxbcJ"
+    "raddress",
+    "raddress",
+    "raddress",
+    "raddress",
+    
 ]);
 
 function formatDomain(domain) {
