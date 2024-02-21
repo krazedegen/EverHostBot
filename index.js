@@ -13,7 +13,7 @@ Defaults.set({
 
 // Telegram Bot Token and Chat ID from .env file
 const token = process.env.TELEGRAM_BOT_TOKEN;
-const chatId = '-1001557113365';
+const chatId = process.env.TELEGRAM_CHAT_TOKEN;
 const bot = new TelegramBot(token, { polling: true });
 const allowedUserId = 5242456536;
 
